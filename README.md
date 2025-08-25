@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://www.loom.com/share/7e61e7540265444aa9ab64113870ee31?sid=eac66cab-9136-45ec-be8d-a2d15a20163b' title='Video Walkthrough on Loom' width='' alt='Video Walkthrough on Loom' />
-
+Link for the video Walkthrough: https://www.loom.com/share/7e61e7540265444aa9ab64113870ee31?sid=51e402e6-8de8-4627-a836-7623d6948184 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with: I did not use a GIF but my video was done on Loom 
 <!-- Recommended tools:
@@ -34,7 +34,7 @@ GIF created with: I did not use a GIF but my video was done on Loom
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-For the customization I added a functional search bar to look for games on the game section and added css styling to it
+For the customization, I added a functional search bar to look for games on the game section and added css styling to it
 
 Describe any challenges encountered while building the app.
 
