@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Website
 
 Submitted by: Karla Maria Guio Cortes
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 8 hours spent in total
 
@@ -17,22 +17,24 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-
+* [X] List anything else that you can get done to improve the app functionality!
+* [X] Added a functional search bar to look for games on the game section and added css styling to it
+      
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/7e61e7540265444aa9ab64113870ee31?sid=eac66cab-9136-45ec-be8d-a2d15a20163b' title='Video Walkthrough on Loom' width='' alt='Video Walkthrough on Loom' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with: I did not use a GIF but my video was done on Loom 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+For the customization I added a functional search bar to look for games on the game section and added css styling to it
 
 Describe any challenges encountered while building the app.
 
